@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über Uns 🇩🇪
+title: Deutsch 🇩🇪
 permalink: /de/
 ---
 
