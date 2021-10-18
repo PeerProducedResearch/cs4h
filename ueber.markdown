@@ -58,3 +58,9 @@ Wenn Sie Fragen zur Verwaltung der Umfragedaten haben, wenden Sie sich bitte an 
 In dieser Umfrage werden keine Daten abgefragt, mit denen Sie persönlich identifiziert werden könnten. Wenn Sie das Gefühl haben, dass die Beantwortung einer Frage Ihre Identität gegen Ihren Willen preisgeben könnte, können Sie diese Frage überspringen oder die Umfrage nicht weiter ausfüllen.
 
 Ihre Antworten werden von den Autoren dieser Umfrage in Übereinstimmung mit der Allgemeinen Datenschutzverordnung der EU anonym gespeichert und verarbeitet. Ihre Daten werden nicht für andere Zwecke als für diese Umfrage verwendet. Ihre Daten werden nicht an Dritte weitergegeben, außer an die Mitglieder des Koordinierungsausschusses der Umfrage. Die Umfragedaten werden nur in de-identifizierter und anonymisierter Form veröffentlicht.
+
+
+### Bleiben sie auf dem Laufenden
+Falls sie über die Ergebnisse der Umfrage informiert werden wollen können sie ihre E-Mail-Adresse hier hinterlassen:
+
+<iframe width="640px" height= "480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=clotp-4l8ECb0QZ8tbdw1O9EhqE2CfxJraPf8UwzjsdUMEZLQlFMQllXU0RVSE5INTFJVDdDWFBUSS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

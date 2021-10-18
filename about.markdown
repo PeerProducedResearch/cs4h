@@ -59,3 +59,8 @@ If you have any questions on how survey data is managed, please contact Jef Van 
 This survey does not ask specifically for any data that could be used to personally identify you. If you feel like providing an answer to a question might reveal your identity against your will, please feel free to skip this question or stop filling in the survey.
 
 Your responses are stored and processed anonymously by the authors of this survey, compliant with the EU’s General Data Protection Regulation. Your data will not be used for any purpose other than this survey. Your data will not be passed on to third parties beyond the members of the survey coordinating committee. Survey data will only be published in a de-identified and anonymised form.
+
+### Stay in touch
+If you want to be informed about the results of the survey you can leave your email address here:
+
+<iframe width="640px" height= "480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=clotp-4l8ECb0QZ8tbdw1O9EhqE2CfxJraPf8UwzjsdUMEZLQlFMQllXU0RVSE5INTFJVDdDWFBUSS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
