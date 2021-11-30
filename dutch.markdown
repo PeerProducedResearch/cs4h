@@ -38,7 +38,7 @@ Het onderzoek is goedgekeurd door de ethische toetsingscommissie van de Universi
 
 Het coördinatiecomité van het onderzoek bestaat uit onderzoekers en patiënten:
 - Alexandra Albert – ExCiteS, University College London, UK. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Talen: Engels, Frans
-- Bastian Greshake Tzovaras – Centre de Recherche Interdisiciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Talen: Duits, Engels, Frans
+- Bastian Greshake Tzovaras – Centre de Recherche Interdisiciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Talen: Duits, Engels
 - Gaston Remmers, Foundation My Data Our Health (Amsterdam) & University of Twente, The Netherlands (Survey coordinator). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Talen: Nederlands, Engels, Spaans
 - Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Talen: Engels
 - Jef Van Laer, Citizen Science Vlaanderen, Belgium. [jef@scivil.be](mailto:jef@scivil.be), Talen: Nederlands, Engels, Frans
