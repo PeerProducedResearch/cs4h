@@ -34,11 +34,11 @@ La encuesta ha sido aprobada por el comité de revisión ética de la Universida
 
 El comité coordinador de la encuesta está formado por investigadores y pacientes:
 
-Alexandra Albert - ExCiteS, University College London, Reino Unido. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Idiomas: EN, FR
-Bastian Greshake Tzovaras - Centre de Recherche Interdisiciplinaire, París, Francia. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Idiomas: DE, EN
-Gaston Remmers, Fundación My Data Our Health (Ámsterdam) y Universidad de Twente, Países Bajos (coordinador de la encuesta). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Idiomas: NL, EN, ES
-Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Idiomas: ES
-Jef Van Laer, Citizen Science Vlaanderen, Bélgica. [jef@scivil.be](mailto:jef@scivil.be), Idiomas: NL, EN, FR
+- Alexandra Albert - ExCiteS, University College London, Reino Unido. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Idiomas: EN, FR
+- Bastian Greshake Tzovaras - Centre de Recherche Interdisiciplinaire, París, Francia. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Idiomas: DE, EN
+- Gaston Remmers, Fundación My Data Our Health (Ámsterdam) y Universidad de Twente, Países Bajos (coordinador de la encuesta). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Idiomas: NL, EN, ES
+- Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Idiomas: ES
+- Jef Van Laer, Citizen Science Vlaanderen, Bélgica. [jef@scivil.be](mailto:jef@scivil.be), Idiomas: NL, EN, FR
 
 Hemos enumerado los países de residencia y los idiomas de los autores para que pueda ponerse en contacto con alguien de su propio país y/o en su propio idioma si lo prefiere. La encuesta está disponible en varios idiomas.
 

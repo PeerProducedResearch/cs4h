@@ -35,11 +35,11 @@ L'enquête a été approuvée par le comité d'examen éthique de l'Université 
 
 Le comité de coordination de l'enquête est composé de chercheurs et de patients :
 
-Alexandra Albert – ExCiteS, University College London, UK. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Langues: EN, FR
-Bastian Greshake Tzovaras – Centre de Recherche Interdisciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Langues: DE, EN
-Gaston Remmers, Foundation My Data Our Health (Amsterdam) & University of Twente, The Netherlands (Survey coordinator). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Langues: NL, EN, ES
-Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Langues: EN
-Jef Van Laer, Citizen Science Vlaanderen, Belgium. [jef@scivil.be](mailto:jef@scivil.be), Langues: NL, EN, FR
+- Alexandra Albert – ExCiteS, University College London, UK. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Langues: EN, FR
+- Bastian Greshake Tzovaras – Centre de Recherche Interdisciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Langues: DE, EN
+- Gaston Remmers, Foundation My Data Our Health (Amsterdam) & University of Twente, The Netherlands (Survey coordinator). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Langues: NL, EN, ES
+- Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Langues: EN
+- Jef Van Laer, Citizen Science Vlaanderen, Belgium. [jef@scivil.be](mailto:jef@scivil.be), Langues: NL, EN, FR
 
 Nous avons répertorié les pays de résidence et les langues des auteurs afin que vous puissiez entrer en contact avec quelqu'un dans votre propre pays et/ou dans votre propre langue si vous préférez. L'enquête est disponible en plusieurs langues.
 
