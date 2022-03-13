@@ -38,7 +38,7 @@ Die Umfrage wurde von der Ethikkommission der Universität Twente genehmigt (Gen
 Das Koordinationskomitee der Umfrage besteht aus Forschern und Patienten:
 
 -	Alexandra Albert – ExCiteS, University College London, UK. [a.albert@ucl.ac.uk](mailto:a.albert@ucl.ac.uk) Sprachen: EN, FR
--	Bastian Greshake Tzovaras – Centre de Recherche Interdisiciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Sprachen: DE, EN, FR
+-	Bastian Greshake Tzovaras – Centre de Recherche Interdisiciplinaire, Paris, France. [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Sprachen: DE, EN
 -	Gaston Remmers, Foundation My Data Our Health (Amsterdam) & University of Twente, The Netherlands (Survey coordinator). [g.remmers@mdog.nl](mailto:g.remmers@mdog.nl) Sprachen: NL, EN, ES
 -	Mic Starbuck, Chest Heart and Stroke foundation Scotland [mic@e-starbuck.co.uk](mailto:mic@e-starbuck.co.uk) Sprachen: EN
 -	Jef Van Laer, Citizen Science Vlaanderen, Belgium. [jef@scivil.be](mailto:jef@scivil.be), Sprachen: NL, EN, FR
