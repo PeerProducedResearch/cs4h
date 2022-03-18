@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Português 🇵🇹🇸
+title: Português 🇵🇹
 permalink: /pt/
 ---
 
